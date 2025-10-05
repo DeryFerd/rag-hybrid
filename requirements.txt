@@ -1,0 +1,24 @@
+# Core LLM & RAG
+langchain
+langchain-community
+langchain-core
+
+# LLM API
+google-genai
+
+# Vector & Embedding
+faiss-cpu
+sentence-transformers
+
+# PDF & Text
+pypdf
+unstructured
+
+# SQL (sqlite3 built-in — jangan install!)
+sqlalchemy
+
+# UI
+gradio
+
+# Utils
+sqlglot
